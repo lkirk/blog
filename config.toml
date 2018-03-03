@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "lkirk blog"
 theme = "classic"
 publishDir = "docs"
+canonifyURLs = true
