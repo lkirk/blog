@@ -1,4 +1,4 @@
-baseURL = "lloydkirk.github.io/blog"
+baseURL = "https://lloydkirk.github.io/blog/public"
 languageCode = "en-us"
 title = "lkirk blog"
 theme = "classic"

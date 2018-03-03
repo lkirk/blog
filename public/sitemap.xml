@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>lloydkirk.github.io/blog/posts/trips/hawaii-big-island/</loc>
+    <loc>https://lloydkirk.github.io/blog/public/posts/trips/hawaii-big-island/</loc>
     <lastmod>2018-03-03T01:09:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>lloydkirk.github.io/blog/categories/</loc>
+    <loc>https://lloydkirk.github.io/blog/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>lloydkirk.github.io/blog/posts/</loc>
+    <loc>https://lloydkirk.github.io/blog/public/posts/</loc>
     <lastmod>2018-03-03T01:09:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>lloydkirk.github.io/blog/tags/</loc>
+    <loc>https://lloydkirk.github.io/blog/public/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>lloydkirk.github.io/blog/</loc>
+    <loc>https://lloydkirk.github.io/blog/public/</loc>
     <lastmod>2018-03-03T01:09:45+00:00</lastmod>
     <priority>0</priority>
   </url>
