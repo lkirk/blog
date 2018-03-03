@@ -1,0 +1,4 @@
+baseURL = "lloydkirk.github.io/blog"
+languageCode = "en-us"
+title = "golb"
+theme = "classic"
