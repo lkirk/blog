@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on lkirk blog</title>
-    <link>https://lloydkirk.github.io/blog/public/posts/</link>
+    <link>https://lloydkirk.github.io/blog/posts/</link>
     <description>Recent content in Posts on lkirk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 03 Mar 2018 01:09:45 +0000</lastBuildDate>
     
-	<atom:link href="https://lloydkirk.github.io/blog/public/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lloydkirk.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hawaii Big Island</title>
-      <link>https://lloydkirk.github.io/blog/public/posts/trips/hawaii-big-island/</link>
+      <link>https://lloydkirk.github.io/blog/posts/trips/hawaii-big-island/</link>
       <pubDate>Sat, 03 Mar 2018 01:09:45 +0000</pubDate>
       
-      <guid>https://lloydkirk.github.io/blog/public/posts/trips/hawaii-big-island/</guid>
+      <guid>https://lloydkirk.github.io/blog/posts/trips/hawaii-big-island/</guid>
       <description> Our trip to the big island Day 1 We went places and did things
  bullet points   numbered things?  </description>
     </item>
